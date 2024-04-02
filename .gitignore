@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+test_mem/test1
+test_time/testtime
+test_time/test_time2
+testmutex/test_mutex
+testmutex/test_mutex_std
+testgdb/testgdb
+testload/testload
+testgdb/gdb_test
+*.log
+test
+*.txt
+test_iofile/testfstream
+build
